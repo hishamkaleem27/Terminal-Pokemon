@@ -1,0 +1,19 @@
+welcome to the Delta Dojo. I've been waiting eagerly for your arrival. Let's have a good battle, and may the best trainer win!
+183
+255
+welcome to the Epsilon Dojo. The Delta Dojo was fairly easy, wouldn't you agree? Let's have a REAL battle now!
+128
+200
+welcome to the Euler Dojo. It's impressive that you've made it thus far. Welp, time for some dissapointment!
+62
+150
+welcome to the Bernoulli Dojo. I hate to be the bearer of bad news, but this is where your journey ends!
+0
+75
+welcome to Collatz, the final Dojo of your journey. Defeat me and gain access to the Multiverse. It's really that simple!
+0
+30
+, amazing work out there! You now have ownership over the dojo and - as a prize for winning the battle - you get to choose a pokemon to keep from the opponent's team! 
+, you did it. You've done what thousands of trainers have previously attempted in vain to do. You defeated all five dojos in Saffron City. As promised, here is the key to the Metaverse:
+
+
